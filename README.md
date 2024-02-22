@@ -1,0 +1,11 @@
+Professionals in the business can purchase online courses from X Education, an education company. Many experts who are interested in the courses visit their website on a daily basis to look through the available courses. The company uses a variety of websites and search engines, including Google, to promote its courses. When these individuals arrive at the website, they may peruse the courses, complete the course registration form, or see some videos. Upon completing an online form with their phone number or email address, these individuals are deemed leads. Furthermore, the organization receives leads from previous recommendations. The sales team members begin calling, emailing, and other correspondence as soon as they have these leads.Some of the leads convert during this process, but the majority do not. At X education, the lead conversion rate is typically 30%. X Education currently has a very low lead conversion rate despite receiving a lot of leads. For instance, only roughly thirty of the 100 leads they obtain each day are converted. The organization wants to find the most potential leads, or "Hot Leads," in order to streamline this procedure. The lead conversion rate should increase if they are able to locate this group of leads because the sales staff will now be spending more time corresponding with the prospects rather than calling everyone. In contrast, a lower number would indicate that the lead is chilly and unlikely to convert, but a higher score would indicate that the lead is hot and likely to convert.You will also need to deal with some additional issues that the company has highlighted, which your model should be able to adapt to in the event that the company's requirements change in the future. A separate doc file contains these problems. Kindly complete it using the logistic regression model that you obtained in the initial stage. Don't forget to include this in the section of your final PowerPoint where you'll offer suggestions
+Actions Took: Reading Data
+EDA Data Cleaning
+Making a Dummy
+dividing the data into test and train sets
+Constructing Models and Making Forecasts
+ROC Curve Prediction for Model Evaluation on Test Set
+Accuracy - Memory
+Specifics of the provided files
+Lead Score Case Study The Python file displaying code and data analysis
+Lead Score Case Study.pdf: Final Presentation Leads.csv: .
